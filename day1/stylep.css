@@ -1,0 +1,42 @@
+body{
+    background-color:whitesmoke ;
+}
+
+h1{
+    color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color:orange;
+}
+.pink{
+    background-color: rgb(247, 103, 156);
+}
+.lblue{
+    background-color: rgb(125, 185, 237);
+}
+.dblue{
+    background-color: darkblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: blueviolet;
+}
+
+td{
+    padding: 10px;
+    font-size: 25px;
+    font: bolder;
+}
+
